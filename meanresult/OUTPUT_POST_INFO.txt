@@ -1,0 +1,10 @@
+ ##### FLOW INFORMATION #####
+ TAU_SHEAR =   1.516514492888515E-003
+ UTAU =   3.894245103853267E-002
+ RETAU =    408.895735904593     
+ DELV =   2.445611221128822E-003
+ 
+ #####  GRID INFORMATION  #####
+ NX =           65
+ NY =           65
+ NZ =           49
